@@ -1,0 +1,14 @@
+{    
+    "BSWUSDT": {
+        "interval_5m": "5m",
+        "interval_1m": "1m",
+        "ma_type": "SMA",
+        "length": 20,
+        "mult_orig": 2.0,
+        "mult_new": 1.0,
+        "data_limit_5m": 300,
+        "fixed_quantity": 0.1,
+        "leverage": 5,
+        "active": true
+    }
+}
